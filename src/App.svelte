@@ -25,7 +25,7 @@
             cx="250"
             cy="250"
             r="200"
-            stroke="1"
+            stroke="none"
             fill={texture.url()}
         />
     </svg>
